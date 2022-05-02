@@ -1,6 +1,6 @@
 # WebPack Starter
 
-Proyecto inicial Webpack
+Proyecto ToDo Webpack
 
 ### Nota:
 Descargar las dependencias >> npm i 
